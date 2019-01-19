@@ -1,1 +1,1 @@
-# wordpress-plugin
+# Wordpress Plugin
